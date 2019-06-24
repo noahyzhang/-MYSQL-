@@ -1,0 +1,15 @@
+﻿  mysql.cpp
+e:\vs 项目\数据库\数据库\mysql.cpp(69): warning C4244: “=”: 从“my_ulonglong”转换到“int”，可能丢失数据
+  mysql_demo.cpp
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_num_rows@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_store_result@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_data_seek@12
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_errno@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_real_connect@32
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_close@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_free_result@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_query@8
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_fetch_row@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_num_fields@4
+mysql.obj : error LNK2001: 无法解析的外部符号 _mysql_init@4
+E:\vs 项目\数据库\Release\数据库.exe : fatal error LNK1120: 11 个无法解析的外部命令

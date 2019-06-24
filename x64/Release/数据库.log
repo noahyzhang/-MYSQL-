@@ -1,0 +1,19 @@
+﻿  mysqtest.cpp
+  图书管理系统.c
+e:\vs 项目\数据库\数据库\图书管理系统.c(124): warning C4047: “!=”:“my_ulonglong”与“void *”的间接级别不同
+e:\vs 项目\数据库\数据库\图书管理系统.c(189): warning C4047: “!=”:“my_ulonglong”与“void *”的间接级别不同
+e:\vs 项目\数据库\数据库\图书管理系统.c(237): warning C4474: fprintf: 格式字符串中传递的参数太多
+  e:\vs 项目\数据库\数据库\图书管理系统.c(237): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\vs 项目\数据库\数据库\图书管理系统.c(274): warning C4047: “!=”:“my_ulonglong”与“void *”的间接级别不同
+e:\vs 项目\数据库\数据库\图书管理系统.c(334): warning C4047: “!=”:“my_ulonglong”与“void *”的间接级别不同
+e:\vs 项目\数据库\数据库\图书管理系统.c(390): warning C4474: fprintf: 格式字符串中传递的参数太多
+  e:\vs 项目\数据库\数据库\图书管理系统.c(390): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\vs 项目\数据库\数据库\图书管理系统.c(436): warning C4047: “!=”:“my_ulonglong”与“void *”的间接级别不同
+e:\vs 项目\数据库\数据库\图书管理系统.c(466): warning C4474: fprintf: 格式字符串中传递的参数太多
+  e:\vs 项目\数据库\数据库\图书管理系统.c(466): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  正在生成代码
+  15 of 15 functions (100.0%) were compiled.
+    11 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  数据库.vcxproj -> E:\vs 项目\数据库\x64\Release\数据库.exe
